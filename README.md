@@ -7,6 +7,12 @@ hobby.
 
 [twincities]: https://playingattheworld.blogspot.com/2013/01/strategos-in-twin-cities.html
 
+## Downloads
+
+Pre-built PDFs are available [in the releases section of this repository][tags].
+
+[tags]: https://github.com/japanoise/strategos-m/releases
+
 ## Building a PDF
 
 - Software: You will need [the typst compiler](https://github.com/typst/typst)
